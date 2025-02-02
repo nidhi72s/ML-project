@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47186077-91bd-40c4-ba8c-d8aee20f08e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../day5/.idea/day5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day7/.idea/day7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest recommendation/.idea/rest recommendation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest recommendation/Rest.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day10/code/.ipynb_checkpoints/program1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day10/code/.ipynb_checkpoints/program1-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day10/code/catboost_info/catboost_training.json" beforeDir="false" afterPath="$PROJECT_DIR$/../day10/code/catboost_info/catboost_training.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day10/code/catboost_info/learn/events.out.tfevents" beforeDir="false" afterPath="$PROJECT_DIR$/../day10/code/catboost_info/learn/events.out.tfevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day10/code/catboost_info/learn_error.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/../day10/code/catboost_info/learn_error.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day10/code/catboost_info/time_left.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/../day10/code/catboost_info/time_left.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day10/code/program1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day10/code/program1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day10/code/progrm2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day10/code/progrm2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day11/code/program1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day11/code/program1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day11/code/program2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day11/code/program2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day11/code/program3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day11/code/program3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day11/code/program4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day11/code/program4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day11/code/program5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day11/code/program5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day12/code/program1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day12/code/program1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day12/code/program2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day12/code/program2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day12/code/program3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day12/code/program3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day14/code/.ipynb_checkpoints/program3-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day14/code/program1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day14/code/program1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day14/code/program2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day14/code/program2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day14/code/program3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day15/code/program1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day15/code/program1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day15/code/program2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day15/code/program2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day15/code/program3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day15/code/program3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day15/code/program4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day15/code/program4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day16/code/program1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day16/code/program1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day16/code/program2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day16/code/program2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day16/code/program3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day16/code/program3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day16/code/program4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day16/code/program4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day16/code/program5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day16/code/program5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day16/code/program6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day16/code/program6.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day16/code/program7.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day16/code/program7.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3/code/notebooks/program1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day3/code/notebooks/program1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3/code/notebooks/program2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day3/code/notebooks/program2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3/code/notebooks/program3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day3/code/notebooks/program3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3/code/notebooks/program4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day3/code/notebooks/program4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day4/code/program1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day4/code/program1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day4/code/program2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day4/code/program2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day4/code/program3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day4/code/program3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day4/code/program4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day4/code/program4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5/code/model_devleopment/ program1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day5/code/model_devleopment/ program1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5/code/model_devleopment/program3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day5/code/model_devleopment/program3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5/notes/.$Diagram.drawio.bkp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5/notes/Diagram.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5/notes/evaluation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5/notes/regression.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day6/code/program1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day6/code/program1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day6/code/program2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day6/code/program2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day6/code/program3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day6/code/program3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day6/code/program4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day6/code/program4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day6/code/program5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day6/code/program5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day7/code/program1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day7/code/program1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day7/code/program2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day7/code/program2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day7/code/server/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day7/code/server/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day7/code/server/.idea/server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day7/code/server/.idea/server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day8/code/.ipynb_checkpoints/program2-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day8/code/program1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day8/code/program1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day8/code/program2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day8/code/program3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day8/code/program3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day8/code/program4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day8/code/program4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9/code/program1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day9/code/program1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9/code/program2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day9/code/program2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9/code/program3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../day9/code/program3.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2prlm0G1k1MTS04VQZsYWq0jfbh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/ML/machine-learning/rest&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47186077-91bd-40c4-ba8c-d8aee20f08e2" name="Changes" comment="" />
+      <created>1733532229589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733532229589</updated>
+    </task>
+    <servers />
+  </component>
+</project>
